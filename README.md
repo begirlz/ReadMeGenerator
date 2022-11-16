@@ -21,6 +21,8 @@ This is a command-line application that dynamically generates a professional REA
 
 ## Walkthrough Video
   [Professional Readme Generator Demo](https://drive.google.com/file/d/1Vfv4f5fdSYkr5NAKYCnFYYkeIg2hW9a7/view)
+## Example of output file
+  [A sample of output file using this application](https://github.com/begirlz/ReadMeGenerator/blob/main/src/exsampleREADME.md)
 
 ## Installation
     
