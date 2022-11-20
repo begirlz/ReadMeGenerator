@@ -17,7 +17,7 @@ This is a command-line application that dynamically generates a professional REA
 
 
 ## Visual Presentation
-  ![Professional Readme Generator Demo](./img/demo.gif)
+  ![Professional Readme Generator Demo](./src/demo.gif)
 
 ## Walkthrough Video
   [Professional Readme Generator Demo](https://drive.google.com/file/d/1Cl3aHJIsU5PX1eIun_S6gfKe4FVWK3zU/view)
