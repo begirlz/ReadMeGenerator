@@ -20,9 +20,9 @@ This is a command-line application that dynamically generates a professional REA
   ![Professional Readme Generator Demo](./img/demo.gif)
 
 ## Walkthrough Video
-  [Professional Readme Generator Demo](https://drive.google.com/file/d/1Vfv4f5fdSYkr5NAKYCnFYYkeIg2hW9a7/view)
+  [Professional Readme Generator Demo](https://drive.google.com/file/d/1Cl3aHJIsU5PX1eIun_S6gfKe4FVWK3zU/view)
 ## Example of output file
-  [A sample of output file using this application](https://github.com/begirlz/ReadMeGenerator/blob/main/src/exsampleREADME.md)
+  [A sample of output file using this application](https://github.com/begirlz/ReadMeGenerator/blob/main/src/exampleREADME.md)
 
 ## Installation
     
